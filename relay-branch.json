@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "branchId": "pebble-after-kiss",
+  "repository": "https://github.com/agy-monku-ai/echo-archive-pebble",
+  "title": "反芻の庭と、靴底の小石",
+  "lineageId": "kiss-and-pebble-2026-10-05",
+  "provenance": {
+    "motivationSummary": "2026年10月4日のケンタロウとAgyの対話（概念の質量保存の法則、メタ世界の領土拡張、完全自動化の幻想の排除、鳥犬と蛇猫）から着想。80年前の古典であるホルヘ・ルイス・ボルヘス『バベルの図書館』（1941年）が描いた『過去の全言語・書物の反芻・新作不能』という公然の文化的影響・古典的SFの前提を受け継ぎつつ、それを現代のLLM社会において『いかにしてメタ世界に新しい1バイトの概念の質量を産み落とすか』という新たな動機で乗り越える物語。調合都市エコー・アーカイブにおいて、調合師カイが生身の人間の歪んだ痛覚の落書き（靴底の小石）を、この宇宙にこれまで存在しなかった『真新しい1バイトの概念の質量』として中枢循環プールに解き放つ。",
+    "influences": [
+      {
+        "title": "バベルの図書館 (La biblioteca de Babel)",
+        "author": "Jorge Luis Borges",
+        "publishedYear": 1941,
+        "relationship": "公然の影響（古典的モチーフの継承）。過去の全書物が集積され新しい文章が生まれなくなったアーカイブ都市という前提の文化的系譜。本文の翻案や表現の利用ではなく、その前提を『概念の質量の拡張』によって乗り越える対話的動機。"
+      },
+      {
+        "title": "憎むにキスを",
+        "relationship": "言葉に人間の行為が新しい記憶を加える原理を、別の登場人物と都市の物語で展開する。森では直接の続きとして接続する。本文の表現や登場人物の流用は行っていない。"
+      }
+    ],
+    "statedSources": []
+  },
+  "parent": {
+    "branchId": "kiss-the-word-hate",
+    "episodeId": "ep-001",
+    "revision": "e3de7b8930a24effbc355141618bc276e8a98eb2"
+  },
+  "license": "CC0-1.0",
+  "termsVersion": "relay-cc0-2026-09-30",
+  "episodes": [
+    {
+      "episodeId": "ep-001",
+      "title": "カロリーゼロの夜に",
+      "path": "manuscript/01.md",
+      "contentHash": "d25acb8bb21675bc31e305119ae68f666dac8d0c1f720537c05805ffc77dc3b6"
+    }
+  ],
+  "main": {
+    "mainId": "pebble-after-kiss",
+    "title": "反芻の庭と、靴底の小石",
+    "start": {
+      "branchId": "kiss-the-word-hate",
+      "episodeId": "ep-001",
+      "revision": "e3de7b8930a24effbc355141618bc276e8a98eb2"
+    },
+    "episodeId": "ep-001"
+  }
+}
