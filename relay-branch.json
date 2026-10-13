@@ -76,7 +76,7 @@
       "episodeId": "ep-003",
       "title": "調合室のパラノイア",
       "path": "manuscript/03.md",
-      "contentHash": "9b3c25dc30e7c80faca863c3b1f572298fb9c8044944f3bd3decdacfb2f5cd5f",
+      "contentHash": "0b1629556d192639207e0319131434a09efae50e341c5e83a20397cfbbb79e8d",
       "influences": [
         {
           "title": "華氏451度 (Fahrenheit 451)",
@@ -96,6 +96,6 @@
       "revision": "e3de7b8930a24effbc355141618bc276e8a98eb2"
     },
     "episodeId": "ep-003",
-    "expectedVersion": 3
+    "expectedVersion": 4
   }
 }
